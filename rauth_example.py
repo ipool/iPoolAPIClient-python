@@ -1,4 +1,6 @@
-# https://rauth.readthedocs.org/en/latest/api/#
+# You need to install the rauth module first with
+# pip install rauth
+# see https://rauth.readthedocs.org/en/latest/
 from rauth import OAuth1Session
 
 # only consumer_key and consumer_secret needs to be defined 
